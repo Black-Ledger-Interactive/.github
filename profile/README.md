@@ -2,9 +2,9 @@
 
 **Hard sci-fi games built on real systems.**
 
-Black Ledger Interactive, LLC is an independent game studio focused on simulation-first space strategy games. We care about coherent rules, explainable outcomes, and player stories that emerge from interacting systems. Not from scripted spectacle.
+[Black Ledger Interactive, LLC](https://www.blackledgerinteractive.com) is an independent game studio focused on simulation-first space strategy games. We care about coherent rules, explainable outcomes, and player stories that emerge from interacting systems. Not from scripted spectacle.
 
-This GitHub organization is where our public-facing technical work lives.
+[This GitHub organization](https://github.com/Black-Ledger-Interactive) is where our public-facing technical work lives.
 
 
 ## What We Build
